@@ -13,7 +13,3 @@ print(calculate_discount("",""))
 
     
     
-# def my_math(a,b):
-#     sum= a+b
-#     return sum
-# my_math(1,2)
