@@ -1,0 +1,4 @@
+Hello! This is an example text file.
+It contains multiple lines of text.
+This file will be used to demonstrate file handling in Python.
+Feel free to modify this content as needed. 
