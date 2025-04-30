@@ -11,6 +11,3 @@ def calculate_discount(price,discount_percent):
     
 print(calculate_discount("","")) 
 
-    
-    
-week-3
